@@ -1,2 +1,2 @@
-# react-toro
+# react-todo
 Created with CodeSandbox
