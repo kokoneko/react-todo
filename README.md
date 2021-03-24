@@ -1,2 +1,2 @@
 # react-todo
-Created with CodeSandbox
+Reactで作った簡単なTODOアプリです
